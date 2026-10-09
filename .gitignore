@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# 生成的中间产物（分镜表导出、提示词导出、参考图）
+out/
+export/
+*.generated.json
+REF-*.png
+frame_*.png
